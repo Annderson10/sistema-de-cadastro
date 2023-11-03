@@ -4,9 +4,9 @@
 
 Para rodar esse projeto na sua maquina, por favor digite:
 
-'''
+
 node app.js
-'''
+
 
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
